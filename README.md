@@ -21,6 +21,6 @@ Komponen yang Digunakan:
 * LED: Lampu yang kecerahannya akan diatur berdasarkan pembacaan sensor.
 
 Pembagian Tugas:
-* Daulah: Membuat kode untuk membaca data DHT22 dan integrasi dengan Blynk.
-* Ilham: Membuat kode untuk mengendalikan dua LED melalui Blynk.
-* Hilman: Menyusun presentasi dan membuat dokumentasi video.
+* Daulah: Membuat kode untuk memetakan nilai LDR ke PWM dan mengontrol kecerahan LED berdasarkan hasil pembacaan.
+* Ilham: Membuat fungsi untuk membaca nilai dari LDR, menghitung rata-rata, dan menentukan status cahaya (Terang, Normal, atau Gelap).
+* Hilman: Mendesain rangkaian simulasi di Wokwi dan memastikan komponen terhubung dengan benar sesuai dengan diagram.
