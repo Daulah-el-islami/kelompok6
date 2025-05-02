@@ -24,7 +24,3 @@ Pembagian Tugas:
 * Daulah: Membuat kode untuk membaca data DHT22 dan integrasi dengan Blynk.
 * Ilham: Membuat kode untuk mengendalikan dua LED melalui Blynk.
 * Hilman: Menyusun presentasi dan membuat dokumentasi video.
-  
-Tautan Proyek:
-* GitHub: [https://github.com/contohasep/kelompok10](https://github.com/Daulah-el-islami/UTS-Sistem-Mikrokontroler)
-* Wokwi: [https://wokwi.com/projects/4000525844952](https://wokwi.com/projects/428577656713632769)
