@@ -2,7 +2,7 @@
 
 Judul Proyek Mini: Pengatur Kecerahan Lampu Otomatis menggunakan LDR<br/>
 Mata Kuliah: Sistem Mikrokontroler<br/>
-Kelas: Contoh TIF RM 22 CNS – Departemen Informatika, Universitas Teknologi Bandung<br/>
+Kelas: TIF RM 22 CNS – Departemen Informatika, Universitas Teknologi Bandung<br/>
 Dosen Pengampu: Muchamad Rusdan, S.T., M.T.<br/>
 
 Nama Kelompok: Kelompok 6<br/>
