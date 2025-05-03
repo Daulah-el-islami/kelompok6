@@ -22,8 +22,8 @@ Komponen yang Digunakan:<br/>
 
 Pembagian Tugas:<br/>
 * Daulah: Membuat kode untuk memetakan nilai LDR ke PWM dan mengontrol kecerahan LED berdasarkan hasil pembacaan.<br/>
-* Ilham: Membuat fungsi untuk membaca nilai dari LDR, menghitung rata-rata, dan menentukan status cahaya (Terang, Normal, atau Gelap).<br/>
-* Hilman: Mendesain rangkaian simulasi di Wokwi dan memastikan komponen terhubung dengan benar sesuai dengan diagram.<br/>
+* Ilham: Mendesain rangkaian simulasi di Wokwi dan memastikan komponen terhubung dengan benar sesuai dengan diagram.<br/>
+* Hilman: Membuat fungsi untuk membaca nilai dari LDR, menghitung rata-rata, dan menentukan status cahaya (Terang, Normal, atau Gelap).<br/>
 
 Tautan Proyek:<br/>
 * GitHub: https://github.com/Daulah-el-islami/kelompok6
