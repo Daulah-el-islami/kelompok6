@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dbdabdb1-bb66-427f-b233-fabccbb189ab)## UTS Sistem Mikrokontroler
+## UTS Sistem Mikrokontroler
 
 Judul Proyek Mini: Pengatur Kecerahan Lampu Otomatis menggunakan LDR<br/>
 Mata Kuliah: Sistem Mikrokontroler<br/>
