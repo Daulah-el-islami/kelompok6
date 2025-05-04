@@ -1,4 +1,4 @@
-## UTS Sistem Mikrokontroler
+![image](https://github.com/user-attachments/assets/dbdabdb1-bb66-427f-b233-fabccbb189ab)## UTS Sistem Mikrokontroler
 
 Judul Proyek Mini: Pengatur Kecerahan Lampu Otomatis menggunakan LDR<br/>
 Mata Kuliah: Sistem Mikrokontroler<br/>
@@ -8,8 +8,8 @@ Dosen Pengampu: Muchamad Rusdan, S.T., M.T.<br/>
 Nama Kelompok: Kelompok 6<br/>
 Daftar Anggota:<br/>
 * Ketua: Daulah El Islami (22552011256)<br/>
-* Anggota 1: Ilham Zaky Asadullah (22552011256)<br/>
-* Anggota 2: Hilman Elvan Saputra (22552011256)<br/>
+* Anggota 1: Ilham Zaky Asadullah (22552011310)<br/>
+* Anggota 2: Hilman Elvan Saputra (22552011101)<br/>
 
 Penjelasan Proyek:<br/>
 Proyek ini bertujuan untuk merancang dan mengimplementasikan sistem pengatur kecerahan lampu otomatis berbasis LDR. Sistem ini diharapkan dapat menyesuaikan pencahayaan secara dinamis sesuai dengan intensitas cahaya di lingkungan sekitar, sehingga memberikan kenyamanan lebih bagi pengguna serta mendukung efisiensi energi.
